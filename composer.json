@@ -22,7 +22,7 @@
     "autoload": {
         "psr-4": {
             "FischerEnterprise\\ComposerPackageMaker\\": "src/",
-            "FischerEnterprise\\ComposerPackageMaker\\Preset\\": "presets/"
+            "FischerEnterprise\\ComposerPackageMaker\\Presets\\": "presets/"
         }
     },
     "autoload-dev": {
